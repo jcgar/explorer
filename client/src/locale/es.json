@@ -1,0 +1,19 @@
+{
+  "common": {
+  },
+  "view": {
+    "tree": {
+      "download": "Descargar",
+      "notFound": "No se ha encontrado la carpeta seleccionada.",
+      "path": "Carpeta de origen",
+      "title": "Exporador de archivos",
+      "update": "Explorar",
+      "welcome": "Introduce una carpeta para empezar."
+    }
+  },
+  "error": {
+    "labels": {
+      "path": "La carpeta"
+    }
+  }
+}
